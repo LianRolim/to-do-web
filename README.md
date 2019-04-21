@@ -25,9 +25,8 @@ Primeiro você precisará executar o clone deste repositório. Após, siga os pa
 
 1.Subir a aplicação task-api. <br />
 2.Executar o arquivo index.html no seu browser favorito. <br />
-3.Pressionar play. <br />
 
-<br /><br />
+<br />
 
 O banco de dados está no https://mlab.com
 
