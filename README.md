@@ -13,6 +13,7 @@ Primeiro você precisará executar o clone deste repositório. Após, siga os pa
 
 <br />
 # :metal: to-do-app :metal:
+<br />
 Este projeto Web que utiliza as tecnologias HTML, CSS e JAVASCRIPT.
 
 ## Como executar a aplicação
