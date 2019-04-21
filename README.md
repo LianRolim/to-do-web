@@ -1,4 +1,4 @@
-# :metal: task-api :metal:
+:metal: task-api :metal:
 Esta é uma API REST desenvolvida utilizando o .NET CORE 2.2 que visa disponibilizar um CRUD simples para ser consumido pelo to-do-app.
 
 ## Como executar a aplicação
@@ -12,7 +12,9 @@ Primeiro você precisará executar o clone deste repositório. Após, siga os pa
 3.Pressionar play. <br />
 
 <br />
-# :metal: to-do-app :metal:
+
+:metal: to-do-app :metal:
+
 <br />
 Este projeto Web que utiliza as tecnologias HTML, CSS e JAVASCRIPT.
 
