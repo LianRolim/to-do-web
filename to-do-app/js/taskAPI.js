@@ -31,7 +31,7 @@ $(function(){
         if (e.which == 13) {
             abrirFecharModalLoading(true, 'modal-loading'); //abre loading
             var nameTask = document.querySelector('#top-input').value;            
-            $.ajax({ url: "https://localhost:5001/api/v1/tasks/name/"+nameTask.toLowerCase(),
+            $.ajax({ url: "https://localhost:5001/api/v1/tasks/name/"+nameTask,
              type: "GET"
                })
                .done(function( retorno ) {
@@ -72,6 +72,10 @@ function findAllTasks(){
              type: "GET"
            })
            .done(function( retorno ) {
+                var listToDo = document.querySelector('#list-task-to-do');
+                var listDone = document.querySelector('#list-task-done');
+                listToDo.innerHTML = "";
+                listDone.innerHTML = "";
                 retorno.forEach(function(obj){
                     switch (obj.statusTask) {
                        case "ABERTA":
