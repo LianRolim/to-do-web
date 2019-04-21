@@ -1,0 +1,14 @@
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.deps.json
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.runtimeconfig.json
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.runtimeconfig.dev.json
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.dll
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.pdb
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.csprojAssemblyReference.cache
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.csproj.CoreCompileInputs.cache
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.RazorAssemblyInfo.cache
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.RazorAssemblyInfo.cs
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.AssemblyInfoInputs.cache
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.AssemblyInfo.cs
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.RazorTargetAssemblyInfo.cache
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.dll
+C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.pdb

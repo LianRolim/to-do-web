@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>TO-DO-APP</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type ='text/css'>
+     <!-- utilizado normalize para deixar mais compativel com todos navegadores -->
+    <link href="css/normalize.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/modal.css" rel="stylesheet">
+    <link href="css/modal-loading.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/taskAPI.js"></script>
+    <script type="text/javascript" src="./js/modal.js"></script>
+</head>
+<body>
+    <header class="top-header">
+        <input class="top-input" id="top-input" type="text" name="busca" placeholder="Search for text here...">
+    </header>
+    <div class="container">
+        
+        <div class="tasks-to-do">
+            <div class="text-task">
+                <h6>TASKS</h6>
+            </div>
+            <div class="div-align-button">
+                <button onClick="abrirModal('modal-cadastro')" class="button-add-task" type="button">Add Task</button>
+            </div>
+            <h1 class="descri-to-do-done">To Do</h1>
+            <div id="list-task-to-do"></div>
+            
+            <br /><br />
+            <h1 class="descri-to-do-done">Done</h1>
+            <div id="list-task-done"></div>
+        </div>
+        
+        <div class="task-detail">
+            <div class="text-task">
+                <h6>DETAILS</h6>
+            </div>
+            <div id="carrega-detail">
+            </div>
+        </div>
+        
+    </div>
+    
+    <div id="modal-cadastro" class="modal-container">
+        <div class="modal">
+            <button onClick="fecharModal('modal-cadastro')" class="btn-fechar">X</button>
+            <form>
+                <h3 class="descri_cad_task">Add new Task</h3>
+                <textarea id="nome_task" class="input_task" rows="2" placeholder="Nome task"></textarea><br />
+                <textarea id="desc_task" class="input_task" rows="3" placeholder="Descrição da task"></textarea><br /><br />
+                <input onClick='addNewTask(document.getElementById("nome_task").value, document.getElementById("desc_task").value)' type="button" class="button-new-task" value="Inserir">
+            </form>
+        </div>
+    </div>
+    <div id="modal-loading" class="modal-loading">
+        <div id="loading" class="loading"></div>
+    </div>
+</body>
+</html>
