@@ -12,3 +12,17 @@ C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\t
 C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.RazorTargetAssemblyInfo.cache
 C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.dll
 C:\Users\LIANCARLORolim\source\repos\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.pdb
+C:\GuiaInvest\to-do-web\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.deps.json
+C:\GuiaInvest\to-do-web\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.runtimeconfig.json
+C:\GuiaInvest\to-do-web\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.runtimeconfig.dev.json
+C:\GuiaInvest\to-do-web\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.dll
+C:\GuiaInvest\to-do-web\task-api\task-api\bin\Debug\netcoreapp2.2\task-api.pdb
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.csprojAssemblyReference.cache
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.csproj.CoreCompileInputs.cache
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.RazorAssemblyInfo.cache
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.RazorAssemblyInfo.cs
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.AssemblyInfoInputs.cache
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.AssemblyInfo.cs
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.RazorTargetAssemblyInfo.cache
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.dll
+C:\GuiaInvest\to-do-web\task-api\task-api\obj\Debug\netcoreapp2.2\task-api.pdb

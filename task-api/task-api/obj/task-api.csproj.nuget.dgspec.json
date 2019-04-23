@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LIANCARLORolim\\source\\repos\\task-api\\task-api\\task-api.csproj": {}
+    "C:\\GuiaInvest\\to-do-web\\task-api\\task-api\\task-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LIANCARLORolim\\source\\repos\\task-api\\task-api\\task-api.csproj": {
+    "C:\\GuiaInvest\\to-do-web\\task-api\\task-api\\task-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LIANCARLORolim\\source\\repos\\task-api\\task-api\\task-api.csproj",
+        "projectUniqueName": "C:\\GuiaInvest\\to-do-web\\task-api\\task-api\\task-api.csproj",
         "projectName": "task-api",
-        "projectPath": "C:\\Users\\LIANCARLORolim\\source\\repos\\task-api\\task-api\\task-api.csproj",
+        "projectPath": "C:\\GuiaInvest\\to-do-web\\task-api\\task-api\\task-api.csproj",
         "packagesPath": "C:\\Users\\LIANCARLORolim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LIANCARLORolim\\source\\repos\\task-api\\task-api\\obj\\",
+        "outputPath": "C:\\GuiaInvest\\to-do-web\\task-api\\task-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
